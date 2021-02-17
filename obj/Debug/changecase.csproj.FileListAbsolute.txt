@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\svn\changecase\changecase\obj\Debug\changecase.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\svn\changecase\changecase\obj\Debug\changecase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\svn\changecase\changecase\bin\Debug\changecase.exe.config
+C:\Users\admin\Desktop\svn\changecase\changecase\bin\Debug\changecase.exe
+C:\Users\admin\Desktop\svn\changecase\changecase\bin\Debug\changecase.pdb
+C:\Users\admin\Desktop\svn\changecase\changecase\obj\Debug\changecase.exe
+C:\Users\admin\Desktop\svn\changecase\changecase\obj\Debug\changecase.pdb
